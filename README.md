@@ -1,9 +1,9 @@
 # simulator_template
 This repository is a template for creating a fault simulator.
 
-# Usage(for template)
+# Usage(FaultSimulator)
 1. Create a repository for your fault simulator implementation from this template repository.
-1. Update README.md. Change the title to your own repository name and delete `Usage(for template)`.  
+1. Update README.md. Change the title to your own repository name and delete `Usage(FaultSimulator)`.  
 Also, please update the repository description below the title.
 
 Then feel free to develop!  
